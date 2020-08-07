@@ -1,4 +1,4 @@
 # Profity
 
-Parei em 1h30m de video
-Aula 01
+Parei em 2h01m de video
+Aula 02
